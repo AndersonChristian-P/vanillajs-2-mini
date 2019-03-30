@@ -2,7 +2,7 @@
 
 
 
-ocument.querySelector("form").addEventListener("submit", addTodo); // when the submit button on the form is clicked run the addTodo function which creates a new li element and assigns the value (text)  of that li element to whatever was entered into the input field
+document.querySelector("form").addEventListener("submit", addTodo); // when the submit button on the form is clicked run the addTodo function which creates a new li element and assigns the value (text)  of that li element to whatever was entered into the input field
 
 
 
